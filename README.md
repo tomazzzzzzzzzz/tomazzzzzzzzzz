@@ -66,7 +66,7 @@ Me chamo Pedro Tomaz, atualmente faço faculdade na Universidade Municipal de S�
 
 ### 📊 Estatísticas
 
-<table>
+<table border="0">
   <tr>
     <td>
       <img 
