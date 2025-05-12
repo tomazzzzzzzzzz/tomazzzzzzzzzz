@@ -66,15 +66,21 @@ Me chamo Pedro Tomaz, atualmente faço faculdade na Universidade Municipal de S�
 
 ### 📊 Estatísticas
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img 
-    alt="GithubStats"
-    height="200px" 
-    src="https://github-readme-stats.vercel.app/api?username=tomazzzzzzzzzz&show_icons=true&theme=github_dark&include_all_commits=true" 
-  />
-  <img 
-    alt="LanguageStats" 
-    height="200px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomazzzzzzzzzz&theme=github_dark&layout=compact&custom_title=Technologies&langs_count=7" 
-  />
-</div>
+<table>
+  <tr>
+    <td>
+      <img 
+        alt="GithubStats"
+        height="200px" 
+        src="https://github-readme-stats.vercel.app/api?username=tomazzzzzzzzzz&show_icons=true&theme=github_dark&include_all_commits=true" 
+      />
+    </td>
+    <td>
+      <img 
+        alt="LanguageStats" 
+        height="200px" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomazzzzzzzzzz&theme=github_dark&layout=compact&custom_title=Technologies&langs_count=7" 
+      />
+    </td>
+  </tr>
+</table>
