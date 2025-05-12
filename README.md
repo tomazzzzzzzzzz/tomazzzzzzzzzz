@@ -30,6 +30,14 @@ Me chamo Pedro Tomaz, atualmente faço faculdade na Universidade Municipal de S�
 />
 <img 
     align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -52,35 +60,22 @@ Me chamo Pedro Tomaz, atualmente faço faculdade na Universidade Municipal de S�
     style="padding-right: 10px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="C" 
-    title="C"
-    width="30px" 
-    style="padding-right: 10px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
 
 <br/>
 <br/>
 
 ### 📊 Estatísticas
 
-<table border="0">
-  <tr>
-    <td>
-      <img 
-        alt="GithubStats"
-        height="200px" 
-        src="https://github-readme-stats.vercel.app/api?username=tomazzzzzzzzzz&show_icons=true&theme=github_dark&include_all_commits=true" 
-      />
-    </td>
-    <td>
-      <img 
-        alt="LanguageStats" 
-        height="200px" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomazzzzzzzzzz&theme=github_dark&layout=compact&custom_title=Technologies&langs_count=7" 
-      />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img 
+    alt="GithubStats"
+    height="200px" 
+    src="https://github-readme-stats.vercel.app/api?username=tomazzzzzzzzzz&show_icons=true&theme=github_dark&include_all_commits=true" 
+  />
+  <img 
+    alt="LanguageStats" 
+    height="200px" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomazzzzzzzzzz&theme=github_dark&layout=compact&custom_title=Technologies&langs_count=7" 
+  />
+</div>
+   
