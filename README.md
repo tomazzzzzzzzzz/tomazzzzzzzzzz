@@ -36,7 +36,7 @@
 |  Epoc Tech. Nas horas vagas, crio coisas com inteligência  |
 |  artificial.                                               |
 |                                                            |
-|  -@tomazzzzzzzzzz                                          |
+|  -@tomaz                                          |
 |                                                            |
 '------------------------------------------------------------'
 ```
@@ -52,7 +52,7 @@
 <a href="https://instagram.com/pedroo.tmz"><img src="https://skillicons.dev/icons?i=instagram&theme=light" alt="Instagram" /></a>
 
 ```
-pedro@dev ~ % exit
+tomaz@dev ~ % exit
 logout
 Saving session...completed.
 
